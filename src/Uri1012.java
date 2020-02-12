@@ -5,7 +5,7 @@ public class Uri1012 {
 
 	public static void main(String[] args) {
 		
-		/* URI Online Judge | 1012 - Esfera - 
+		/* URI Online Judge | 1012 - Esfera - OK
 		 * 
 		 * Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em 
 		 * seguida, calcule e mostre:
@@ -51,16 +51,11 @@ public class Uri1012 {
 		double areaTriangulo = (A * C) / 2; 
 		double π = 3.14159;
 		double raioCirculo = (π * Math.pow(C, 2));
+		double areaTrapezio = (((A + B) * C) / 2);
+		double areaQuadrado = (Math.pow(B, 2));
+		double areaRetangulo = (A * B);
 		
-		
-		
-		
-		
-		
-		
-		
-		System.out.printf("%.3f%n" ,areaTriangulo);
-		System.out.printf("%.3f%n" ,raioCirculo);
+		System.out.printf("TRIANGULO: %.3f%nCIRCULO: %.3f%nTRAPEZIO: %.3f%nQUADRADO: %.3f%nRETANGULO: %.3f%n" ,areaTriangulo, raioCirculo, areaTrapezio, areaQuadrado, areaRetangulo);
 		
 		sc.close();
 
