@@ -11,6 +11,7 @@ public class Uri1007 {
 		 * diferença do produto de A e B pelo produto de C e D segundo a fórmula:
 		 * DIFERENCA = (A * B - C * D).
 		 * 
+		 * 
 		 * Entrada:
 		 * 
 		 * O arquivo de entrada contém 4 valores inteiros.
