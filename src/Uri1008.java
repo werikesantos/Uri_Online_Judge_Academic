@@ -12,6 +12,7 @@ public class Uri1008 {
 		 * funcionário. A seguir, mostre o número e o salário do funcionário, com duas
 		 * casas decimais.
 		 * 
+		 * 
 		 * Entrada:
 		 * 
 		 * O arquivo de entrada contém 2 números inteiros e 1 número com duas casas
