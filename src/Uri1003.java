@@ -11,6 +11,7 @@ public class Uri1003 {
 		 * soma entre elas e atribua à variável SOMA. A seguir escrever o valor desta
 		 * variável.
 		 * 
+		 * 
 		 * Entrada:
 		 * 
 		 * O arquivo de entrada contém 2 valores inteiros.
