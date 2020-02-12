@@ -11,6 +11,7 @@ public class Uri1004 {
 		 * valores e atribua esta operação à variável PROD. A seguir mostre a variável
 		 * PROD com mensagem correspondente.
 		 * 
+		 * 
 		 * Entrada:
 		 * 
 		 * O arquivo de entrada contém 2 valores inteiros.
