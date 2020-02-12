@@ -30,6 +30,7 @@ public class Uri1002 {
 		 * 2.00                                         A=12.5664
 		 * 100.64                                       A=31819.3103
 		 * 150.00                                       A=70685.7750
+		 * 
 		 */
 		
 		Locale.setDefault(Locale.US); 
