@@ -16,6 +16,7 @@ public class Uri1016 {
 		 * Leia a distância (em Km) e calcule quanto tempo leva (em minutos) para o
 		 * carro Y tomar essa distância do outro carro.
 		 * 
+		 * 
 		 * Entrada:
 		 * 
 		 * O arquivo de entrada contém um número inteiro.
