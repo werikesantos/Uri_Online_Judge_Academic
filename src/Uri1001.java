@@ -12,6 +12,7 @@ public class Uri1001 {
 		 * especificado e não esqueça de imprimir o fim de linha após o resultado, caso
 		 * contrário, você receberá "Presentation Error".
 		 * 
+		 * 
 		 * Entrada: 
 		 * 
 		 * A entrada contém 2 valores inteiros.
