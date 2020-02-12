@@ -5,7 +5,7 @@ public class Uri1012 {
 
 	public static void main(String[] args) {
 		
-		/* URI Online Judge | 1012 - Esfera - OK
+		/* URI Online Judge | 1012 - Área - OK
 		 * 
 		 * Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em 
 		 * seguida, calcule e mostre:
