@@ -15,6 +15,7 @@ public class Uri1012 {
 		 * d) a área do quadrado que tem lado B.
 		 * e) a área do retângulo que tem lados A e B.
 		 * 
+		 * 
 		 * Entrada:
 		 * 
 		 * O arquivo de entrada contém três valores com um dígito após o ponto decimal.
