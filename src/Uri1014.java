@@ -10,6 +10,7 @@ public class Uri1014 {
 		 * Calcule o consumo médio de um automóvel sendo fornecidos a distância total
 		 * percorrida (em Km) e o total de combustível gasto (em litros).
 		 * 
+		 * 
 		 * Entrada:
 		 * 
 		 * O arquivo de entrada contém dois valores: um valor inteiro X representando a
