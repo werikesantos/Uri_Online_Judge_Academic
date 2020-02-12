@@ -12,6 +12,7 @@ public class Uri1006 {
 		 * nota B tem peso 3 e a nota C tem peso 5. Considere que cada nota pode ir de 0
 		 * até 10.0, sempre com uma casa decimal.
 		 * 
+		 * 
 		 * Entrada:
 		 * 
 		 * O arquivo de entrada contém 3 valores com uma casa decimal, de dupla precisão
