@@ -5,8 +5,7 @@ public class Uri1017 {
 
 	public static void main(String[] args) {
 		
-		/* FAZENDO!!!
-		 * URI Online Judge | 1017 - Gasto de Combustível
+		/* URI Online Judge | 1017 - Gasto de Combustível - OK
 		 * 
 		 * Joaozinho quer calcular e mostrar a quantidade de litros de combustível
 		 * gastos em uma viagem, ao utilizar um automóvel que faz 12 KM/L. Para isso,
@@ -43,9 +42,9 @@ public class Uri1017 {
 		int horas = sc.nextInt();
 		int km = sc.nextInt();
 		
-		float litros = ((km / 12) * horas);
+		double litros = (double) (horas * km) / 12;
 		
-		System.out.printf("%.3f",litros);
+		System.out.printf("%.3f%n", litros);
 		
 		sc.close();
 	}

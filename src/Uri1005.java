@@ -5,8 +5,7 @@ public class Uri1005 {
 
 	public static void main(String[] args) {
 
-		/* FAZER!!!
-		 * URI Online Judge | 1005
+		/* URI Online Judge | 1005 - Média 1 - OK
 		 * 
 		 * Leia 2 valores de ponto flutuante de dupla precisão A e B, que correspondem a
 		 * 2 notas de um aluno. A seguir, calcule a média do aluno, sabendo que a nota A
@@ -43,11 +42,9 @@ public class Uri1005 {
 		double A = sc.nextDouble();
 		double B = sc.nextDouble();
 		
-		double media = (A + B) / 10;
+		double media = (A * 3.5 + B * 7.5) / 11 ;
 		
-		
-		
-		System.out.println(media);
+		System.out.printf("MEDIA = %.5f%n",media);
 		
 		sc.close();
 	}
