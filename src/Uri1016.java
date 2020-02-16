@@ -43,7 +43,6 @@ public class Uri1016 {
 		System.out.printf("%d minutos%n", minutos);
 		
 		sc.close();
-		
 	}
 
 }
