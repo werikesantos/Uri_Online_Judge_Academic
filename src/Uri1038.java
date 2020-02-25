@@ -5,7 +5,7 @@ public class Uri1038 {
 
 	public static void main(String[] args) {
 		
-		/* URI Online Judge | 1038 - Lanche - Fazendo!!!
+		/* URI Online Judge | 1038 - Lanche - OK
 		 * 
 		 * Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. 
 		 * A seguir, calcule e mostre o valor da conta a pagar. 
