@@ -6,7 +6,7 @@ public class Uri1046 {
 
 	public static void main(String[] args) {
 		
-		/* URI Online Judge | 1046 - Tempo de Jogo - Fazendo!!!
+		/* URI Online Judge | 1046 - Tempo de Jogo - OK
 		 * 
 		 * Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo 
 		 * pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
