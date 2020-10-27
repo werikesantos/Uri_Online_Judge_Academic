@@ -41,7 +41,6 @@ public class Uri1114 {
 			}else {
 				System.out.println("Senha Invalida");
 			}
-			
 			tentativaAcesso = imprimir.next();
 		}	
 	}
