@@ -4,7 +4,7 @@ public class Uri1114 {
 
 	public static void main(String[] args) {
 
-		/* URI Online Judge | 1114 - Senha Fixa - ?
+		/* URI Online Judge | 1114 - Senha Fixa - OK
 		 * 
 		 * Escreva um programa que repita a leitura de uma senha até que ela seja válida. 
 		 * Para cada leitura de senha incorreta informada, escrever a mensagem "Senha Invalida". 
