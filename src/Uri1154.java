@@ -30,8 +30,8 @@ public class Uri1154 {
 		
 		Scanner imprimir = new Scanner(System.in);
 		
-		double media = 0.0;
-		double contador = 0.0;
+		int media = 0;
+		int contador = 0;
 		
 		int idade = imprimir.nextInt();		
 				
@@ -40,8 +40,8 @@ public class Uri1154 {
 			media = media + idade;		
 			idade = imprimir.nextInt();
 		}
-		double resultado = media / contador;
-		System.out.printf("%.2f",resultado);
+		double resultado = (double) media / contador;
+		System.out.printf("%.2f%n",resultado);
 		
 		imprimir.close();
 		System.exit(0);
