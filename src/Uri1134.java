@@ -37,14 +37,14 @@ public class Uri1134 {
 		int gasolina = 0;
 		int diesel = 0;
 		
-		Integer produto = imprimir.nextInt();		
+		int produto = imprimir.nextInt();		
 				
 		while(produto != 4) {			
-			if(produto.equals(1)) {
+			if(produto == 1) {
 				alcool = alcool + 1;
-			}else if(produto.equals(2)) {
+			}else if(produto == 2) {
 				gasolina = gasolina + 1;
-			}else if(produto.equals(3)) {
+			}else if(produto == 3) {
 				diesel = diesel + 1;
 			}			
 			produto = imprimir.nextInt();
