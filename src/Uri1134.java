@@ -49,7 +49,7 @@ public class Uri1134 {
 			}			
 			produto = imprimir.nextInt();
 		}	
-		System.out.printf("MUITO OBRIGADO\nAlcool: " + alcool + "\nGasolina: " + gasolina + "\nDiesel: " + diesel);
+		System.out.println("MUITO OBRIGADO\nAlcool: " + alcool + "\nGasolina: " + gasolina + "\nDiesel: " + diesel);
 		
 		imprimir.close();
 		System.exit(0);
